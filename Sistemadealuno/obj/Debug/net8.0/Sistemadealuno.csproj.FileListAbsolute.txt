@@ -1,0 +1,14 @@
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\bin\Debug\net8.0\Sistemadealuno.exe
+C:\Users\JOAOVICTORCORREADELI\Sistemadealuno\bin\Debug\net8.0\Sistemadealuno.deps.json
+C:\Users\JOAOVICTORCORREADELI\Sistemadealuno\bin\Debug\net8.0\Sistemadealuno.runtimeconfig.json
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\bin\Debug\net8.0\Sistemadealuno.dll
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\bin\Debug\net8.0\Sistemadealuno.pdb
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\obj\Debug\net8.0\Sistemadealuno.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\obj\Debug\net8.0\Sistemadealuno.AssemblyInfoInputs.cache
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\obj\Debug\net8.0\Sistemadealuno.AssemblyInfo.cs
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\obj\Debug\net8.0\Sistemadealuno.csproj.CoreCompileInputs.cache
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\obj\Debug\net8.0\Sistemadealuno.dll
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\obj\Debug\net8.0\refint\Sistemadealuno.dll
+c:\Users\JOAOVICTORCORREADELI\Sistemadealuno\obj\Debug\net8.0\Sistemadealuno.pdb
+C:\Users\JOAOVICTORCORREADELI\Sistemadealuno\obj\Debug\net8.0\Sistemadealuno.genruntimeconfig.cache
+C:\Users\JOAOVICTORCORREADELI\Sistemadealuno\obj\Debug\net8.0\ref\Sistemadealuno.dll
