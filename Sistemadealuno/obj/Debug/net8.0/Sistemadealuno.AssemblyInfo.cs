@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistemadealuno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49e3aa1e97f913f91bb0931a943bf489382f6462")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistemadealuno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistemadealuno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
