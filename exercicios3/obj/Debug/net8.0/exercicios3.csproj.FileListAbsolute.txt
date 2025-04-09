@@ -1,0 +1,15 @@
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\bin\Debug\net8.0\exercicios3.exe
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\bin\Debug\net8.0\exercicios3.deps.json
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\bin\Debug\net8.0\exercicios3.runtimeconfig.json
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\bin\Debug\net8.0\exercicios3.dll
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\bin\Debug\net8.0\exercicios3.pdb
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\exercicios3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\exercicios3.AssemblyInfoInputs.cache
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\exercicios3.AssemblyInfo.cs
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\exercicios3.csproj.CoreCompileInputs.cache
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\exercicios3.sourcelink.json
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\exercicios3.dll
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\refint\exercicios3.dll
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\exercicios3.pdb
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\exercicios3.genruntimeconfig.cache
+C:\Users\JOAOVICTORCORREADELI\Documents\GitHub\Topicos-de-sistema\exercicios3\obj\Debug\net8.0\ref\exercicios3.dll
